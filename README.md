@@ -1,9 +1,9 @@
 # eslint-config-salt
 
-Salt Eslint config with:
+Salt ESLint config with:
 
 - Airbnb config
-- Typescript
+- TypeScript
 - Prettier
 
 ## Usage
@@ -12,4 +12,4 @@ Salt Eslint config with:
 npx install-peerdeps --dev @saltswap-libs/eslint-config-salt
 ```
 
-Add `"extends": "@saltswap-libs/eslint-config-salt"` to your eslint config file.
+Add `"extends": "@saltswap-libs/eslint-config-salt"` to your ESLint config file.
