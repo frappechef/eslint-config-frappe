@@ -6,6 +6,10 @@ Salt ESLint config with:
 - TypeScript
 - Prettier
 
+## npm
+
+https://www.npmjs.com/package/@saltswap/eslint-config-salt
+
 ## Usage
 
 ```
