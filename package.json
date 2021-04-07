@@ -1,14 +1,14 @@
 {
-  "name": "@saltswap-libs/eslint-config-salt",
+  "name": "@frappefinance-libs/eslint-config-frappe",
   "version": "1.0.0",
-  "description": "Eslint config for SaltSwap",
+  "description": "Eslint config for FrappeFinance",
   "main": "lib/index.js",
   "files": [
     "lib"
   ],
-  "repository": "git@github.com:saltswap/eslint-config-salt.git",
+  "repository": "git@github.com:frappechef/eslint-config-frappe.git",
   "license": "MIT",
-  "author": "saltKosher",
+  "author": "frappechef",
   "private": false,
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^4.2.0",

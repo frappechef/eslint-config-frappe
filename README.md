@@ -1,6 +1,6 @@
-# eslint-config-salt
+# eslint-config-frappe
 
-Salt ESLint config with:
+Frappe Finance ESLint config with:
 
 - Airbnb config
 - TypeScript
@@ -8,12 +8,12 @@ Salt ESLint config with:
 
 ## npm
 
-https://www.npmjs.com/package/@saltswap/eslint-config-salt
+https://www.npmjs.com/package/@frappefinance-libs/eslint-config-frappe
 
 ## Usage
 
 ```
-npx install-peerdeps --dev @saltswap-libs/eslint-config-salt
+npx install-peerdeps --dev @frappefinance-libs/eslint-config-frappe
 ```
 
-Add `"extends": "@saltswap-libs/eslint-config-salt"` to your ESLint config file.
+Add `"extends": "@frappefinance-libs/eslint-config-frappe"` to your ESLint config file.
